@@ -27,7 +27,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** A & B testing for an E-commence company using Power BI. 
+- **Project:** A & B testing for an E-commence company using Power BI. 
 
 ## 🌱 Currently Learning 
 
